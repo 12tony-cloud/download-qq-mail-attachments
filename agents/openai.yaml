@@ -1,0 +1,7 @@
+interface:
+  display_name: "QQ Mail Attachment Downloader"
+  short_description: "Download and audit QQ Mail attachments."
+  default_prompt: "Use $download-qq-mail-attachments to download QQ Mail attachments after a date into separate Word, zip, and other folders, then audit for missing files."
+
+policy:
+  allow_implicit_invocation: true
